@@ -1,0 +1,31 @@
+[
+    {
+      "contribution-title": "Explorer",
+      "project-repo": "https://explorer.elessarnodes.xyz/artela",
+      "contributors": ["ElessarNodes"]
+    }
+  ]
+
+[
+    {
+      "contribution-title": "RPCs",
+      "project-repo": "https://artela-rpc.elessarnodes.xyz/",
+      "contributors": ["ElessarNodes"]
+    }
+  ]
+
+[
+    {
+      "contribution-title": "APIs",
+      "project-repo": "https://artela-api.elessarnodes.xyz/",
+      "contributors": ["ElessarNodes"]
+    }
+  ]
+
+[
+    {
+      "contribution-title": "Installation Guide",
+      "project-repo": "https://services.elessarnodes.xyz/testnets/artela/installation-guide",
+      "contributors": ["ElessarNodes"]
+    }
+  ]
